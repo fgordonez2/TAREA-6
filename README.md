@@ -1,12 +1,15 @@
 # TAREA-6
 ># 1. OBJETIVOS
 # General:
-- {Ñ
+
+- Comprender la corriente alterna, voltaje alterno y los circuitos con capacitores, mediante el análisis de los temas propuestos, para
+  desarrollar correctamente los ejercicios planteados y aplicar los conocimientos adquiridos hasta hoy.
 
  # Específicos:
- - D
- - A
- - R
+ 
+ - Determinar las formas en que se puede expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente
+ - Identificar las formas de onda no sinusoidales en corriente alterna y variable con el tiempo
+ - Definir la capacitancia total de una conexión en serie y en paralelo de capacitores
  - D
  
 
