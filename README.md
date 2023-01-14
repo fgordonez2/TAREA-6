@@ -10,9 +10,7 @@
  - Determinar las formas en que se puede expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente
  - Identificar las formas de onda no sinusoidales en corriente alterna y variable con el tiempo
  - Definir la capacitancia total de una conexión en serie y en paralelo de capacitores
- - D
  
-
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
@@ -58,7 +56,7 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/212448259-13d82601-3b90-48d5-9326-bf42c59289b1.png)
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios impares *CAPITULO 7*:
+# Resolución de ejercicios impares *CAPITULO 11*:
 
 ## Autoevaluación:
 
