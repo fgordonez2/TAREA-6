@@ -475,14 +475,84 @@ Consulte la figura 12-80(b)
 - b) 0.0025 uF
 - c) 4.7 uF
 
+![image](https://user-images.githubusercontent.com/104925648/212553507-5e65e276-6d7c-4ec7-a0b8-3df8d4496dc2.png)
+
+4.Transforme los siguientes valores de farads a microfarads
+
+- a) 0.0000001 F
+- b) 0.0022 F
+- c) 0.0000000015 F
+
+![image](https://user-images.githubusercontent.com/104925648/212553773-82be620c-65b9-48fb-8efe-42ed23f734fd.png)
+
+6.¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+
+![image](https://user-images.githubusercontent.com/104925648/212553942-fa9e0e13-85c3-4b3a-9782-9193a101490c.png)
+
+8.Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.
+  ¿Cuál es la capacitancia?
+  
+![image](https://user-images.githubusercontent.com/104925648/212554007-37426c0c-011d-46db-a4fc-ba336b6f7742.png)
+
+10.
+
+![image](https://user-images.githubusercontent.com/104925648/212554187-9a46119c-d11d-4f8c-9f4b-61704c229cad.png)
+
+12.A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene
+   coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
+   
+![image](https://user-images.githubusercontent.com/104925648/212554394-b06a3571-31ee-4713-b2d0-6b001d3303b2.png)
+
+## Sección 12-2 Tipos de capacitores
+
+14.En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área
+   de placas?
+   
+![image](https://user-images.githubusercontent.com/104925648/212554466-57a8d5ab-3431-4eed-a146-6b0bb65d22e4.png)
+
+16.Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la
+   figura 12-66
+   
+![image](https://user-images.githubusercontent.com/104925648/212554493-5aa27bb1-779a-4f6e-95dc-52030b7e1aaa.png)
+
+18.Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
+
+![image](https://user-images.githubusercontent.com/104925648/212554522-5cc17eae-9de7-43a8-a84c-92c6e98512a6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212554738-e55b3697-f361-4b90-a060-dedc17e7822d.png)
+
+## Sección 12-3 Capacitores en serie
+
+20.Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+
+![image](https://user-images.githubusercontent.com/104925648/212554823-02a75647-1149-4e46-aaee-06df704b4d6d.png)
+
+22.Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor
+
+![image](https://user-images.githubusercontent.com/104925648/212554844-872724e0-9f07-4474-b2a5-d718bd8a8bf1.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212555847-406e735a-5dc2-4c4d-9898-7dc90dd53e12.png)
+
+24.La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje 
+   entre las terminales de cada capacitor.
+
+![image](https://user-images.githubusercontent.com/104925648/212555975-a5f8bb06-3255-4fbf-a2d2-5a50eedc9c97.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212556138-3642d497-8316-44ab-8910-3ba56ba53821.png)
+
+## Sección 12-4 Capacitores en paralelo
+
+26.¿Cuál es la carga en cada capacitor de la figura 12-71?
+
+![image](https://user-images.githubusercontent.com/104925648/212556187-b049b216-bf8a-4f81-94e7-54d2d51fd9c1.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212556287-27a8a539-9637-4bea-b5b6-977e642d7bee.png)
 
 
 
-## Sección 12-2 El teorema de superposición
 
-## Sección 12-3 El teorema de Norton
 
-## Sección 12-4 Teorema de transferencia de potencia máxima
+
 
 ## Sección 12-5 Conversiones delta a Y - Y a delta
 
