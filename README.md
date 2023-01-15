@@ -548,13 +548,77 @@ Consulte la figura 12-80(b)
 
 ![image](https://user-images.githubusercontent.com/104925648/212556287-27a8a539-9637-4bea-b5b6-977e642d7bee.png)
 
+28.¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![image](https://user-images.githubusercontent.com/104925648/212557139-6ae6fc88-f911-4d1c-b016-36d3cfb147f7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212557277-bbe90f6b-4193-4007-b62e-4035c1cc7751.png)
+
+## Sección 12-5  Capacitores en circuitos de cd
+
+30.Determine la constante de tiempo para cada una de las combinaciones en serie:
+
+- a) R=100 ohm, C=1 uF
+- b) R=10 Mohm, C=47 pF
+- c) R=4.7 kohm, C=0.0047 uF
+- d) R=1.5 Mohm, C=0.01 uF
+
+![image](https://user-images.githubusercontent.com/104925648/212557781-b521ff7b-3db7-48ab-abaf-88d63a634695.png)
+
+32.En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el 
+   capacitor en los instantes posteriores al cierre del interruptor:
+ 
+![image](https://user-images.githubusercontent.com/104925648/212557800-25046bdf-87fa-4570-a0e5-70dbda0f232f.png)
+
+- a) 10 us
+- b) 20 us
+- c) 30 us
+- d) 40 us
+- e) 50 us
+
+![image](https://user-images.githubusercontent.com/104925648/212558497-0bd855cf-d2fc-4254-ad75-857cb7f0b4ba.png)
+
+34.Repita el problema 32 con los siguientes intervalos de tiempo:
+
+- a) 2 us
+- b) 5 us
+- c) 15 us
+
+![image](https://user-images.githubusercontent.com/104925648/212558590-309b2d94-70d2-4fbd-9ebd-0511097cee6b.png)
+
+36.Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial
+creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76
+llega a 6 V después de cerrar el interruptor
+
+![image](https://user-images.githubusercontent.com/104925648/212558622-2cb4e5b3-c665-4274-81d2-4855a9948ce4.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212558845-7c36f073-adb9-4c44-ae4f-e42d16260caa.png)
+
+38.¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![image](https://user-images.githubusercontent.com/104925648/212558863-68cbbddf-8733-44df-92c8-26a4bebe28c1.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212558999-9e82f5c5-3274-4f3a-8bab-4f381ef1c091.png)
+
+40.En la figura 12-78, inicialmente el capacitor está descargado. En el instante t 5 10 ms después de que
+   se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+   
+![image](https://user-images.githubusercontent.com/104925648/212559018-6a3db56b-4c36-46e6-9796-c264d0ecd9fc.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212559090-2f896ae5-426d-4c96-a14b-3e6abcd477cb.png)
+
+## Sección 12-6 Capacitores en circuitos de ca
+
+42.¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![image](https://user-images.githubusercontent.com/104925648/212559135-7e4f62b4-07b5-481a-8780-66de6b8ddb4b.png)
 
 
 
 
 
 
-## Sección 12-5 Conversiones delta a Y - Y a delta
+
 
 
 ># 4. VÍDEO
