@@ -56,9 +56,16 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/212448259-13d82601-3b90-48d5-9326-bf42c59289b1.png)
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios impares *CAPITULO 11*:
+# Resolución de ejercicios pares *CAPITULO 11*:
 
 ## Autoevaluación:
+
+2.Durante cada ciclo, una onda seno alcanza un valor pico
+
+- a) una vez
+- **b) dos veces** ←
+
+
 
 
 ## Exámen rápido de dinámica de circuitos
