@@ -613,6 +613,24 @@ llega a 6 V después de cerrar el interruptor
 
 ![image](https://user-images.githubusercontent.com/104925648/212559135-7e4f62b4-07b5-481a-8780-66de6b8ddb4b.png)
 
+![image](https://user-images.githubusercontent.com/104925648/212559538-533714ea-4226-4e99-8744-ab2f234259af.png)
+
+44.En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 ohm? ¿Una
+XC de 1 kohm?
+
+![image](https://user-images.githubusercontent.com/104925648/212559566-87c86a9c-4187-461e-8d92-5b1804b91d9f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212559845-372bd4bf-92d0-41bc-b670-5cf5801a176f.png)
+
+46.Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál
+es el valor del voltaje?
+
+![image](https://user-images.githubusercontent.com/104925648/212559970-d1433d3d-52f0-41ea-ace3-976a2be04bd2.png)
+
+48.Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
+
+![image](https://user-images.githubusercontent.com/104925648/212559988-f36f35b2-159a-45b6-a31c-e7f9a18a2329.png)
+
 
 
 
