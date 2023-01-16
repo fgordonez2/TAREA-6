@@ -631,16 +631,33 @@ es el valor del voltaje?
 
 ![image](https://user-images.githubusercontent.com/104925648/212559988-f36f35b2-159a-45b6-a31c-e7f9a18a2329.png)
 
+![image](https://user-images.githubusercontent.com/104925648/212592894-4de1bfdd-57d9-40e7-88fd-51b3e4303904.png)
 
+![image](https://user-images.githubusercontent.com/104925648/212592928-a8597ab2-5617-4008-9c10-6ca85c2a3a55.png)
 
+![image](https://user-images.githubusercontent.com/104925648/212592967-e8f089ab-7eed-42cf-895a-5c320420fed5.png)
 
+50.Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
+![image](https://user-images.githubusercontent.com/104925648/212593033-d7e6a254-e9d0-4edf-a0e2-d250572a787d.png)
 
+![image](https://user-images.githubusercontent.com/104925648/212593109-a542a9a3-d350-47ad-b4a4-5637180900ba.png)
 
+## Sección 12-7 Aplicaciones de los capacitores 
 
+52.Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de
+10 kHz en un punto dado en un circuito amplificador?
+
+Respuesta:**Para proporcionar un corto a tierra de ca es necesario que sea de 0 ohm**
+
+## Sección 12-8 Circuitos de capacitor conmutado
+
+54.En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz.
+¿Qué valor de resistor se emula?
+
+![image](https://user-images.githubusercontent.com/104925648/212593450-3ce4cf48-ea08-4d3b-afe5-e029caa282f6.png)
 
 ># 4. VÍDEO
-
 
 
 ># 5. CONCLUSIONES
