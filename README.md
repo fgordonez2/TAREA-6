@@ -659,6 +659,7 @@ Respuesta:**Para proporcionar un corto a tierra de ca es necesario que sea de 0 
 
 ># 4. VÍDEO
 
+- https://youtu.be/cFxHeYxxOi8
 
 ># 5. CONCLUSIONES
 
