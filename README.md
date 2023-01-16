@@ -666,7 +666,7 @@ Respuesta:**Para proporcionar un corto a tierra de ca es necesario que sea de 0 
 - Una fuente de voltaje (corriente) sinusoidal produce un voltaje (corriente) que varía sinusoidalmente con el tiempo.
 - Los capacitores se pueden clasificar en dos categorías principales: polarizados y no polarizados. Los capacitores polarizados tienen dos terminales, uno positivo y     uno negativo. Los capacitores no polarizados tienen cuatro terminales, dos positivos y dos negativos.
 - El osciloscopio es un instrumento de verificación que utiliza un tubo de rayos catódicos para hacer visible sobre una pantalla fluorescente los valores  instantáneos   y formas de ondas de magnitudes eléctricas variables rápidamente en función del tiempo o de otra magnitud.
-- Como las ondas cuadradas, de diente de sierra y de triángulo, se pueden representar como una suma infinita de funciones sinusoidales. Ergo, la onda sinusoidal forma   la base del análisis armónico y es la forma de onda más matemáticamente simple de describir.
+- Como las ondas cuadradas, de diente de sierra y de triángulo, se pueden representar como una suma infinita de funciones sinusoidales, la onda sinusoidal forma   la     base del análisis armónico y es la forma de onda más matemáticamente simple de describir.
   
 ># 6. BIBLIOGRAFÍA
 
