@@ -662,14 +662,11 @@ Respuesta:**Para proporcionar un corto a tierra de ca es necesario que sea de 0 
 
 ># 5. CONCLUSIONES
 
-- El teorema de superposición para el análisis de circuitos serie - paralelo es de gran uso porque permite reducir un circuito complejo en una más simple, con esto se   facilita el análisis del circuito y se puede aplicar cualquier método conocido para poder calcular intensidad de corriente, el voltaje 
-  total del circuito y la resistencia total.
-- Las conversiones entre configuraciones de circuito tipo delta y tipo Y son útiles en ciertas aplicaciones especializadas de tres terminales (A,B,C).
-  Un ejemplo se encuentra en el análisis de un circuito puente Wheatstone con carga. 
-- Debido a su resistencia interna, un voltímetro aplica carga al circuito y afectará, en cierto grado, el voltaje que se esté midiendo.Se ha ignorado el efecto de       carga porque la resistencia interna de un voltímetro es muy alta, y normalmente tiene un efecto insignificante en el circuito que está siendo medido
-- Los teoremas de circuitos eléctricos son aquellas técnicas derivadas de las leyes de Kirchoff y la ley de Ohm que permiten resolver de una manera más simple cierto     tipo de circuitos. Algunos con aplicaciones más particulares que otros, facilitan el estudio de las redes eléctricas.
-- Los teoremas son de gran utilidad en las investigaciones que se hacen dentro delcampo de la ingeniería eléctrica, como por ejemplo el Teorema de Thévenin en        
-  elanálisis de los sistemas eléctricos de potencia.
+- Los capacitores son dispositivos que tienen distintos tamaños, formas, y que son capaces de almacenar energía, son usados ​​en varias aplicaciones relacionadas a la   electricidad, que pueden ir desde el lmacenamiento eléctrico hasta ser usados en memorias de computadores y se los puede distinguir en dos formas, condensadores       fijos y variables.
+- Una fuente de voltaje (corriente) sinusoidal produce un voltaje (corriente) que varía sinusoidalmente con el tiempo.
+- Los capacitores se pueden clasificar en dos categorías principales: polarizados y no polarizados. Los capacitores polarizados tienen dos terminales, uno positivo y     uno negativo. Los capacitores no polarizados tienen cuatro terminales, dos positivos y dos negativos.
+- El osciloscopio es un instrumento de verificación que utiliza un tubo de rayos catódicos para hacer visible sobre una pantalla fluorescente los valores  instantáneos   y formas de ondas de magnitudes eléctricas variables rápidamente en función del tiempo o de otra magnitud.
+- Como las ondas cuadradas, de diente de sierra y de triángulo, se pueden representar como una suma infinita de funciones sinusoidales. Ergo, la onda sinusoidal forma   la base del análisis armónico y es la forma de onda más matemáticamente simple de describir.
   
 ># 6. BIBLIOGRAFÍA
 
